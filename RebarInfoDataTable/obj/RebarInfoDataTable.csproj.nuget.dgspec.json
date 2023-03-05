@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TeklaSimpleTools\\RebarInfoDataTable\\RebarInfoDataTable.csproj": {}
+  },
+  "projects": {
+    "E:\\TeklaSimpleTools\\RebarInfoDataTable\\RebarInfoDataTable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TeklaSimpleTools\\RebarInfoDataTable\\RebarInfoDataTable.csproj",
+        "projectName": "RebarInfoDataTable",
+        "projectPath": "E:\\TeklaSimpleTools\\RebarInfoDataTable\\RebarInfoDataTable.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "E:\\TeklaSimpleTools\\RebarInfoDataTable\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "TeklaOpenAPI": {
+              "target": "Package",
+              "version": "[2021.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

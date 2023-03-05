@@ -9,7 +9,6 @@
         SizeToContent="WidthAndHeight"
         Topmost="True"
         Height="200" 
-        MaxHeight="500"
         Width="300"
         MaxWidth="400">
     <StackPanel>
@@ -19,13 +18,14 @@
             FontSize="16"
             FontFamily="Garamount"
             Margin="10" 
+            MinWidth="200"
             Click="TestButton_Click"/>
         <DataGrid 
             x:Name="dataGridView"
             Width="auto"
             Height="auto"
-            Margin="10 0 10 10" 
             MaxHeight="500"
+            Margin="10 0 10 10" 
             HorizontalAlignment="Stretch"
             Background="Transparent" 
             RowBackground="LightYellow" 

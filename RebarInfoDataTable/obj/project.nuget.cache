@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkSHKJaCxvmdM7tFFbsi3oGuXsSlvXxjTXd/a/jhBgYpN7hLYi4QfwfAF+eJnMkCE2py9gv4TOgqOkNhvA1xpw==",
+  "success": true,
+  "projectFilePath": "E:\\TeklaSimpleTools\\RebarInfoDataTable\\RebarInfoDataTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\teklaopenapi\\2021.0.1\\teklaopenapi.2021.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
